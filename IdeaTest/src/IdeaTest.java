@@ -7,6 +7,7 @@ public class IdeaTest {
                 for (long k = 0; k <1000000000 ; k++) {
                     for (long m = 0; m <1000000000 ; m++) {
                         System.out.println(m);
+I++;
                     }
                 }
             }
